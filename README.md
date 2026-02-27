@@ -27,3 +27,5 @@ pip install pandas reportlab
    report.pdf
 
 ## Output:
+
+<img width="812" height="70" alt="image" src="https://github.com/user-attachments/assets/6dcbf036-f3a6-4e88-987c-61787f6cd789" />
