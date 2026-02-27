@@ -9,7 +9,7 @@ try:
 except FileNotFoundError:
     print("Error: data.csv file not found!")
     exit()
-Analyze Data
+#Analyze Data
 total_rows = len(df)
 mean_values = df.mean(numeric_only=True)
 
